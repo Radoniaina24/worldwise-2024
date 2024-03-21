@@ -1,0 +1,16 @@
+{
+  "cities": [
+    {
+      "cityName": "Isparta",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2024-03-21T06:41:27.600Z",
+      "notes": "",
+      "position": {
+        "lat": "37.71859032558816",
+        "lng": "30.563964843750004"
+      },
+      "id": 1
+    }
+  ]
+}
